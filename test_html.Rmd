@@ -1,6 +1,6 @@
 ---
 title: "Transcriptome pipelines"
-author: "Peñaloza-Bojacá, G.F.; Villarreal, J.C.; Villarreal Lab."
+author: "Peñaloza-Bojacá, G.F.; Villarreal, J.C; Villarreal Lab."
 date: "`r Sys.Date()`"
 output:
   word_document:
